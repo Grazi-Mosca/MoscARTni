@@ -1,0 +1,25 @@
+h1{
+    font-family: "Times New Roman", Times, serif;
+    color: #2c2cd2;
+    text-decoration:solid;
+}
+form{
+    font-family: "Times New Roman", Times, serif;
+    color:#480b81;
+}
+input{
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(1, 29, 20);
+    background-color:azure;
+}
+select{
+    font-family: "Times New Roman", Times, serif;
+    background-color: azure;
+}
+textarea{
+    font-family: "Times New Roman", Times, serif;
+    background-color:azure;
+    color:rgb(50, 50, 55);
+}
+
+
